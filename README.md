@@ -3,6 +3,9 @@
 #YouTube Demo
 https://www.youtube.com/watch?v=tl3pqTjbxdc&feature=youtu.be
 
+#Project Requirements/Overview/
+[Project Requirements](https://github.com/derekraygao/starbucksapp/blob/master/Starbucks%20Mobile%20App%20-%20Project%20Requirements.pdf)
+
 
 ## Grader Test Results
 
